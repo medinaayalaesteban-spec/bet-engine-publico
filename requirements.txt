@@ -1,0 +1,6 @@
+requests>=2.31
+python-dotenv>=1.0
+
+# video_maker.py (audio narration + vertical video rendering)
+edge-tts>=7.0
+moviepy>=2.0
